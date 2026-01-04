@@ -9,14 +9,6 @@ I’m a **Mobile and Web Full-Stack Developer** focused on building reliable, us
 ## 👨‍💻 About Me
 I enjoy turning ideas into real applications — from **mobile apps** to **backend APIs** and **modern web interfaces**.  
 
-I like working on:
-- Mobile applications with **Flutter**
-- Backend services using **FastAPI**
-- Web applications with **React and Next.js**
-- Writing clean, readable, and maintainable code
-
-I’m curious by nature, enjoy solving problems, and I’m always looking to grow as a developer.
-
 ---
 
 ## 🛠️ What I Work With
