@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar Kamal
+# 👋 Hi, I'm Omer Kamil
 
 I’m a **Mobile and Web Full-Stack Developer** focused on building reliable, user-friendly applications from end to end.
 
