@@ -45,10 +45,6 @@ I enjoy turning ideas into real applications — from **mobile apps** to **backe
 
 ---
 
-## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmerAlfaruk&show_icons=true)
-
----
 
 ## 📫 Get in Touch
 - GitHub: https://github.com/OmerAlfaruk  
